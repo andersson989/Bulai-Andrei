@@ -1,0 +1,21 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.settings",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\eu",
+    "\\src\\main\\java\\eu\\andreirusu",
+    "\\src\\main\\java\\eu\\andreirusu\\daw",
+    "\\target",
+    "\\target\\m2e-wtp",
+    "\\target\\m2e-wtp\\web-resources",
+    "\\target\\m2e-wtp\\web-resources\\META-INF",
+    "\\target\\m2e-wtp\\web-resources\\META-INF\\maven",
+    "\\target\\m2e-wtp\\web-resources\\META-INF\\maven\\lab2",
+    "\\target\\m2e-wtp\\web-resources\\META-INF\\maven\\lab2\\Bulai_Andrei_GR1_LAB06"
+  ],
+  "SelectedNode": "\\src\\main\\webapp\\WEB-INF\\web.xml",
+  "PreviewInSolutionExplorer": false
+}
